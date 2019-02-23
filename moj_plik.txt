@@ -1,4 +1,4 @@
 Hello, SDA!
 
 Nowa funkcjonalnoœæ.
-int x = 0;
+private double x = 0.0;
