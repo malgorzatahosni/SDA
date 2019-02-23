@@ -1,4 +1,6 @@
 Hello, SDA!
 
-Nowa funkcjonalnoœæ.
+
+Nowa funkcjonalnosc
 private double x = 0.0;
+
