@@ -1,1 +1,4 @@
 Hello, SDA!
+
+Nowa funkcjonalnoœæ.
+int x = 0;
