@@ -1,4 +1,4 @@
-Hello, SDA!
+Hello, world!
 
 
 Nowa funkcjonalnosc
