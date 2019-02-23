@@ -1,4 +1,4 @@
 Hello, SDA!
 
-Nowa funkcjonalnoœæ.
-int x = 0;
+Nowa funkcjonalnosc
+private int x = 5;
